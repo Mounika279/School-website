@@ -1,0 +1,66 @@
+<html>
+    <body>
+        <center>
+            <img src="./Gautami-Talent-School-Logo.jpg" height="100" width="150">
+            <h3>GAUTAMI TALENT SCHOOL</h3>
+          
+        <details>
+            <summary> Admissions Open </summary>
+        <p> contact no : 040-89745672</p>
+        </details>
+        <a href="https://gautamitalentschools.com/terms-and-condition/" target="blank"> REGISTER YOUR ADMISSIONS</a>
+      
+            <h5>PRIMARY SECTION  I-V CLASSES</h5>
+
+            <table border ="5" cellspacing="5" cellpadding="5">
+                <tr>
+                    <th>CLASS</th>
+                    <th>NAME</th>
+                    <th>TOTAL MARKS</th>
+                    <TH> GRADE</TH>
+                    </tr>
+                    <TR>
+                        <td> 1st class </td>
+                        <td>Mounika</td>
+                        <td>587</td>
+                        <td>O</td>
+                        </tr>
+                    </TR>
+                   
+                    <tr>
+                    <td> 2nd class </td>
+                    <td>srinika</td>
+                    <td>589</td>
+                    <td> O</td>
+                    </tr>
+                    <tr>
+                    <td>3rd class </td>
+                    <td>hasini</td>
+                    <td>599</td>
+                    <td>O</td>
+                    </tr>
+                    <tr>
+                    <td>4th class</td>
+                    <td>Priya</td>
+                    <td>595</td>
+                    <td>O</td>
+                    </tr>
+                    <tr>
+                    <td> 5th class </td>
+                    <td>lalitha</td>
+                    <td>591</td>
+                    <td>O</td>
+                    </tr>
+                  
+
+            </tr>
+        </center>
+    </table>
+        <details>
+            <summary>Our Branches</summary>
+            <p> Santoshnagar  Dilsuknagar  Manikonda</p>       
+<p> <img src="./img1.jpg"  height="150" width="150"> <img src="./img2.webp" height="150" width="150"> <img src="./img3.jpg" height="150" width="150">
+        </details>
+        
+    </body>
+</html>
